@@ -114,7 +114,7 @@ To prepare the data for analysis, I:
 
 ## 📷 Dashboard Preview
 
-![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard](sales_dashboard.png)
 
 ---
 
